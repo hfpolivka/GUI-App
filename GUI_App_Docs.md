@@ -1,7 +1,10 @@
 # GUI App Documentation <!-- omit in toc -->
 
+<br>
+
 ## Table of Contents <!-- omit in toc -->
 
+- [Resources](#resources)
 - [Prerequisites](#prerequisites)
 - [Installing Flutter](#installing-flutter)
 - [Set Up an Android Emulator](#set-up-an-android-emulator)
@@ -10,6 +13,17 @@
 - [Configure Widgets and Scaffolding](#configure-widgets-and-scaffolding)
 - [Container Widgets](#container-widgets)
 - [Column Widgets](#column-widgets)
+
+<br>
+
+## Resources
+
++ [Flutter Crash Course Playlist](https://www.youtube.com/watch?v=j_rCDc_X-k8&list=PL4cUxeGkcC9giLVXCHSQmWqlHc9BLXdVx&index=1)
++ [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
++ [TMC Flutter Beginner Widgets Cheatsheet](https://www.scribd.com/document/678484299/tmc-flutter-beginner-widgets-cheatsheet?v=0.521)
++ [RESPONSIVE DESIGN | Flutter Tutorial](https://www.youtube.com/watch?v=MrPJBAOzKTQ)
++ [Responsive Dashboard UI | FLUTTER Tutorial](https://www.youtube.com/watch?v=9bo1V9STW2c&t=887s)
++ [Modular App Architecture in Flutter for Custom Software Projects (2025 Edition)](https://www.200oksolutions.com/blog/modular-app-architecture-in-flutter-for-custom-software-projects-2025-edition/)
 
 <br>
 
