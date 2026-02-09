@@ -153,7 +153,15 @@
 
 <br>
 
-8) Get familiar with the project file layout:
+8) Run the Flutter project in the Chrome browser:
+   + In the VSCode terminal, run the following:
+      ```
+      flutter run -d chrome
+      ```
+
+<br>
+
+9)  Get familiar with the project file layout:
    + Most files will not be needed. The core files for the application will live in the **/lib** file.
    + Files with a "." in front of them contin configuration files.
    + A majority of the other files are built and used by Flutter under the hood, and rarely have any manual uses. The structure is simply how the software organizes itself.
